@@ -4,15 +4,12 @@ Sphido logo and icons as SVG vectors...
 
 ## Sphido Logo
 
-![](sphido.svg)
+<img src="sphido.svg" width="320" align="center">
 
 ## Sphido Icon
 
-![](icon.svg)
+<img src="icon.svg" width="320" alt="Sphido icon" align="center">
 
 ## Sphido FavIcon
 
-<img src="favicon.svg" width="320" height="320">
-
-![](favicon.svg)
-
+<img src="favicon.svg" width="320" align="center">
