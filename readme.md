@@ -1,15 +1,16 @@
+
 # Sphido Logos
 
 Sphido logo and icons as SVG vectors...
 
 ## Sphido Logo
 
-<img src="sphido.svg" width="320" align="center">
+<p align="center"><img src="sphido.svg" width="520"></p>
 
 ## Sphido Icon
 
-<img src="icon.svg" width="320" alt="Sphido icon" align="center">
+<p align="center"><img src="icon.svg" width="320" alt="Sphido icon"></p>
 
 ## Sphido FavIcon
 
-<img src="favicon.svg" width="320" align="center">
+<p align="center"><img src="favicon.svg" width="320"></p>
